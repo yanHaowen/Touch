@@ -1,0 +1,17 @@
+/* pages/mood/mood.wxss */
+.title{
+font-size: 50rpx;
+  text-align: center;
+}
+
+#mood{
+  margin-top:100rpx; 
+  display: flex;
+  flex-direction: column;
+   align-items: center;
+}
+
+.tiny{
+font-size:20rpx;
+
+}

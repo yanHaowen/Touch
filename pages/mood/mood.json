@@ -1,0 +1,26 @@
+{
+  "tabBar": {
+    "background": "white",
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "image/basket-3x.png",
+        "selectedIconPath": "image/basket-3x.png"
+      },
+      {
+        "pagePath": "pages/setting/setting",
+        "text": "帮助",
+        "iconPath": "image/question-mark-3x.png",
+        "selectedIconPath": "image/question-mark-3x.png"
+      },
+      {
+        "pagePath": "pages/help/help",
+        "text": "设置",
+        "iconPath": "image/wrench-3x.png",
+        "selectedIconPath": "image/wrench-3x.png"
+      }
+    ]
+  }
+  }

@@ -1,0 +1,17 @@
+<!--pages/mood/mood.wxml-->
+<view  class='title'><text> Welcome To Touch</text>
+</view>
+
+<view class='img1' id='mood' bindtap='sad'>
+<text class='tiny'>sad</text><br/>
+伤心<image></image></view>
+
+<view class='img2' id='mood' bindtap='anxiety'>
+<text class='tiny'>anxiety</text>
+焦虑<image></image></view>
+
+<view class='img3' id='mood' bindtap='worry'>
+<text class='tiny'>worry</text>
+担心<image></image></view>
+
+<view class='img4' id='mood'>111<image></image></view>
